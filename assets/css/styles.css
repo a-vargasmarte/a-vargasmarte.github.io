@@ -7,7 +7,7 @@
 */
 /* ======= Base ======= */
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #666;
   background: #f5f5f5;
   font-size: 14px;
@@ -26,7 +26,7 @@ h6 {
   font-weight: 500;
 }
 a {
-  color: #00BCD4;
+  color: #00bcd4;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -102,7 +102,7 @@ a.btn:hover {
   font-weight: normal;
 }
 .header {
-  background: #00BCD4;
+  background: #00bcd4;
   color: #fff;
 }
 .header a {
@@ -155,7 +155,7 @@ a.btn:hover {
 }
 .header .profile-image {
   position: absolute;
-  border-radius:50%;
+  border-radius: 50%;
   border: solid 2px whitesmoke;
   width: 160px;
   height: 160px;
@@ -232,7 +232,7 @@ a.btn:hover {
   left: 0;
   width: 100%;
   z-index: 100;
-  background: #00BCD4;
+  background: #00bcd4;
 }
 .page-nav-wrapper a {
   color: rgba(255, 255, 255, 0.6);
@@ -301,7 +301,7 @@ a.btn:hover {
   text-align: center;
 }
 .timeline {
-  border-left: 3px solid #00BCD4;
+  border-left: 3px solid #00bcd4;
   border-bottom-right-radius: 2px;
   border-top-right-radius: 2px;
   position: relative;
@@ -332,7 +332,7 @@ a.btn:hover {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   background: #fff;
-  border: 3px solid #00BCD4;
+  border: 3px solid #00bcd4;
 }
 .timeline .item:after {
   content: "";
@@ -350,7 +350,7 @@ a.btn:hover {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #00BCD4;
+  background: #00bcd4;
   z-index: 10;
 }
 .timeline .work-place {
@@ -378,7 +378,7 @@ a.btn:hover {
 }
 .timeline .job-meta .title {
   /* font-size: 18px; */
-  color: #00BCD4;
+  color: #00bcd4;
   font-weight: 400;
 }
 .timeline .job-meta .time {
@@ -395,7 +395,7 @@ a.btn:hover {
 }
 .education-section .degree {
   font-size: 18px;
-  color: #00BCD4;
+  color: #00bcd4;
   margin-top: 0;
   margin-bottom: 0px;
 }
@@ -495,7 +495,7 @@ a.btn:hover {
   width: 36px;
   height: 36px;
   display: inline-block;
-  background: #00BCD4;
+  background: #00bcd4;
   color: #fff;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -531,7 +531,7 @@ a.btn:hover {
   cursor: pointer;
 }
 .testimonials-section .carousel-indicators li.active {
-  background-color: #00BCD4;
+  background-color: #00bcd4;
   width: 10px;
   height: 10px;
   margin: 0;
@@ -559,8 +559,8 @@ a.btn:hover {
   margin-right: 0;
 }
 .portfolio-section .filters .type.active {
-  color: #00BCD4;
-  border-bottom: 2px solid #00BCD4;
+  color: #00bcd4;
+  border-bottom: 2px solid #00bcd4;
 }
 .portfolio-section .item {
   margin-bottom: 30px;
@@ -569,7 +569,7 @@ a.btn:hover {
   margin-bottom: 0;
 }
 .portfolio-section .item-inner {
-  background: #00BCD4;
+  background: #00bcd4;
   color: #fff;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
@@ -648,7 +648,7 @@ a.btn:hover {
   margin-bottom: 15px;
 }
 .contact-section .service-list .fa {
-  color: #00BCD4;
+  color: #00bcd4;
 }
 .contact-section .social {
   margin-bottom: 0;
@@ -666,7 +666,7 @@ a.btn:hover {
   color: #8a8a8a;
 }
 .contact-section .social a:hover {
-  color: #00BCD4;
+  color: #00bcd4;
 }
 .footer .container {
   padding: 30px;
@@ -778,10 +778,9 @@ a.btn:hover {
 
   .timeline .job-meta .title {
     font-size: 18px;
-    color: #00BCD4;
+    color: #00bcd4;
     /* font-weight: 400; */
   }
-
 }
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
@@ -884,52 +883,52 @@ a.btn:hover {
   border: 2px solid #fff;
 }
 .config-panel #color-options li.theme-1 a {
-  background: #00BCD4;
+  background: #00bcd4;
 }
 .config-panel #color-options li.theme-2 a {
-  background-color: #03A9F4;
+  background-color: #03a9f4;
 }
 .config-panel #color-options li.theme-3 a {
   background-color: #009688;
 }
 .config-panel #color-options li.theme-4 a {
-  background-color: #4CAF50;
+  background-color: #4caf50;
 }
 .config-panel #color-options li.theme-5 a {
-  background-color: #8BC34A;
+  background-color: #8bc34a;
 }
 .config-panel #color-options li.theme-6 a {
-  background-color: #C0CA33;
+  background-color: #c0ca33;
 }
 .config-panel #color-options li.theme-7 a {
-  background-color: #FFC107;
+  background-color: #ffc107;
 }
 .config-panel #color-options li.theme-8 a {
-  background-color: #FF9800;
+  background-color: #ff9800;
 }
 .config-panel #color-options li.theme-9 a {
-  background-color: #FF5722;
+  background-color: #ff5722;
 }
 .config-panel #color-options li.theme-10 a {
   background-color: #795548;
 }
 .config-panel #color-options li.theme-11 a {
-  background-color: #607D8B;
+  background-color: #607d8b;
 }
 .config-panel #color-options li.theme-12 a {
-  background-color: #673AB7;
+  background-color: #673ab7;
 }
 .config-panel #color-options li.theme-13 a {
-  background-color: #3F51B5;
+  background-color: #3f51b5;
 }
 .config-panel #color-options li.theme-14 a {
-  background-color: #2196F3;
+  background-color: #2196f3;
 }
 .config-panel #color-options li.theme-15 a {
-  background-color: #9C27B0;
+  background-color: #9c27b0;
 }
 .config-panel #color-options li.theme-16 a {
-  background-color: #E91E63;
+  background-color: #e91e63;
 }
 .config-panel .close {
   position: absolute;
@@ -952,4 +951,13 @@ a.btn:hover {
 #visualizaRD {
   width: 120px;
   margin-left: 80px;
+}
+#unite-ideas {
+  margin-top: 50px;
+  margin-bottom: 37px;
+}
+
+#medstar {
+  margin-top: 40px;
+  margin-left: 10px;
 }
